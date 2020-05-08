@@ -1,0 +1,11 @@
+Fernando Muslera,Galatasaray
+Tyler Boyd,Beşiktaş
+Ömer Bayram,Galatasaray
+Oytun Özdoğan,Fenerbahçe
+Ahmet Çalık,Galatasaray
+Altay Bayındır,Fenerbahçe
+Abdoulay Diaby,Beşiktaş
+Loris Karius,Beşiktaş
+Yuto Nagatoma,Galatasaray
+Erten Ersu,Fenerbahçe
+Gökhan Gönül,Beşiktaş
